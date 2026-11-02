@@ -41,7 +41,7 @@ Response
 * [x] Prompt Templates
 * [x] Chains / LCEL
 * [x] Output Parsers
-* [ ] Memory
+* [x] Memory
 * [ ] Tools
 * [ ] Tool Calling
 * [ ] Agents
